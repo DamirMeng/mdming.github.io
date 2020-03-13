@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: 
-Sitemap: https://mdming.github.io/sitemap.xml
